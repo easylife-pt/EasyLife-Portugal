@@ -1,4 +1,4 @@
-# Your Partner in Relocation: Making Your Move Smooth and Stress-Free
+# Your Trusted Partner in Relocation: Making Your Move Smooth and Stress-Free
 Your Guide to Business and Migration Issues in Portugal: Residences, Visas and Comprehensive Assistance in Portugal.
 <!DOCTYPE html>
 <html lang="en">
@@ -52,8 +52,8 @@ Your Guide to Business and Migration Issues in Portugal: Residences, Visas and C
                     <p>Support for families moving with children, including school selection, documentation assistance, and community integration.</p>
                 </div>
                 <div class="bg-white text-gray-800 p-6 rounded-lg shadow-md">
-                    <h3 class="text-2xl font-bold mb-4">Housing & Integration</h3>
-                    <p>Help with finding suitable housing, setting up utilities, and navigating the Portuguese system (NIF, bank accounts, SNS healthcare).</p>
+                    <h3 class="text-2xl font-bold mb-4">Adapting & Integration</h3>
+                    <p>Help with finding schools, universities, and navigating the Portuguese system (NIF, bank accounts, SNS healthcare, driving license, etc).</p>
                 </div>
                 <div class="bg-white text-gray-800 p-6 rounded-lg shadow-md">
                     <h3 class="text-2xl font-bold mb-4">Business Setup</h3>
