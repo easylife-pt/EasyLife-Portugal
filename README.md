@@ -11,7 +11,7 @@ Your Guide to Business and Migration Issues in Portugal: Residences, Visas and C
 <body class="bg-gradient-to-r from-blue-500 to-indigo-600 font-sans text-white">
     <header class="bg-blue-700 py-6">
         <div class="container mx-auto flex justify-between items-center px-4">
-            <h1 class="text-3xl font-bold">EasyLife Portugal</h1>
+            <h1 class="text-3xl font-bold">Get to know us</h1>
             <nav>
                 <ul class="flex space-x-4">
                     <li><a href="#services" class="hover:underline">Services</a></li>
