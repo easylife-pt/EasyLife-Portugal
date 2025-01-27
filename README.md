@@ -94,18 +94,6 @@ Your Guide to Business and Migration Issues in Portugal: Residences, Visas and C
             <p><strong>Phone:</strong> +351 910 023 071</p>
             <p><strong>Email:</strong> <a href="mailto:easylife.pt.docs@gmail.com" class="underline">easylife.pt.docs@gmail.com</a></p>
             <p><strong>Instagram:</strong> <a href="https://www.instagram.com/arno_relocation_pt/" class="underline">@arno_relocation_pt</a></p>
-            <form class="max-w-lg mx-auto mt-6">
-                <div class="mb-4">
-                    <input type="text" placeholder="Your Name" class="w-full p-3 rounded text-gray-800">
-                </div>
-                <div class="mb-4">
-                    <input type="email" placeholder="Your Email" class="w-full p-3 rounded text-gray-800">
-                </div>
-                <div class="mb-4">
-                    <textarea placeholder="Your Message" class="w-full p-3 rounded text-gray-800"></textarea>
-                </div>
-                <button type="submit" class="bg-white text-indigo-700 px-6 py-3 rounded-full text-lg shadow hover:bg-gray-100">Submit</button>
-            </form>
         </div>
     </section>
 
