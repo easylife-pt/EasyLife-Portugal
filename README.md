@@ -1,6 +1,5 @@
 # Your Trusted Partner in Relocation: Making Your Move Smooth and Stress-Free
 Your Guide to Business and Migration Issues in Portugal: Residences, Visas and Comprehensive Assistance in Portugal.
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
